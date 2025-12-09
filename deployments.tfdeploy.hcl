@@ -16,5 +16,5 @@ deployment "prod" {
 
 upstream_input "network_stack" {
   type = "stack"
-  source = "app.terraform.io/hashicorp/stacks/demo-network-stack"
+  source = "tfcdev-edbf8d57.ngrok.io/abdutest/Default%20Project/UPSTREAM-demo-network-stack"
 }
